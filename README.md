@@ -34,7 +34,7 @@
 
   <samp>pengurutan data di collection.</samp>
   
-  <img src="https://github.com/suardi26/Java-Collection/blob/main/Collection.jpg" alt="Collection Interface" style="height: 100px; width:100px;"/>
+  <img src="https://github.com/suardi26/Java-Collection/blob/main/Collection.jpg" alt="Collection Interface"/>
   
 ### Software :
 
